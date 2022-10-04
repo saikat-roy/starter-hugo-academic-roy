@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Saikat Roy
+title: Someone Lastname
 
 # Full name (for SEO)
 first_name: Someone
