@@ -3,8 +3,8 @@
 title: Saikat Roy
 
 # Full name (for SEO)
-first_name: Saikat
-last_name: Roy
+first_name: Someone
+last_name: Someone's LN
 
 # Is this the primary user of the site?
 superuser: true
@@ -14,7 +14,7 @@ role: Doctoral Researcher
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: German Cancer Research Center
+  - name: Some Research Center
     url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
@@ -29,13 +29,13 @@ interests:
 education:
   courses:
     - course: PhD in Computer Science
-      institution: Heidelberg University, Germany
+      institution: A uni
       year: someday
     - course: M.Sc. in Computer Science
-      institution: University of Bonn, Germany
+      institution: Another uni
       year: 2021
-    - course: M.E. in Software Engineering
-      institution: Jadavpur University, India
+    - course: M.E. in Stuff
+      institution: Someuni
       year: 2015
 
 # Social/Academic Networking
