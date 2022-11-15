@@ -1,6 +1,7 @@
 ---
 title: Saikat Roy
 role: Doctoral Researcher
+avatar_filename: linkedin_dp_saikat.jpg
 bio: My research interests include deep learning and medical image analysis.
 interests:
   - Deep Learning
