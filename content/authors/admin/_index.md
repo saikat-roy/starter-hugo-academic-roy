@@ -10,7 +10,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: /#contact
+    link: saikat.roy@dkfz-heidelberg.de
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/Saikat_Roy_
