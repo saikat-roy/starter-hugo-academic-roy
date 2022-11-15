@@ -1,7 +1,7 @@
 ---
 title: Saikat Roy
 role: Doctoral Researcher
-avatar_filename: img_20211120_143224_bokeh-01_2.jpeg
+avatar_filename: img_20211120_143224_bokeh-01_2-1-.jpeg
 bio: My research interests include deep learning and medical image analysis.
 interests:
   - Deep Learning
