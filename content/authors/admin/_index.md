@@ -1,83 +1,51 @@
 ---
-# Display name
-title: Someone Lastname
-
-# Full name (for SEO)
-first_name: Someone
-last_name: Someone's LN
-
-# Is this the primary user of the site?
-superuser: true
-
-# Role/position/tagline
-role: Doctoral Researcher 
-
-# Organizations/Affiliations to show in About widget
-organizations:
-  - name: Some Research Center
-    url: https://www.stanford.edu/
-
-# Short bio (displayed in user profile at end of posts)
+title: Saikat Roy
+role: Doctoral Researcher
 bio: My research interests include deep learning and medical image analysis.
-
-# Interests to show in About widget
 interests:
   - Deep Learning
   - Medical Image Analysis
-
-# Education to show in About widget
-education:
-  courses:
-    - course: PhD in Computer Science
-      institution: A uni
-      year: someday
-    - course: M.Sc. in Computer Science
-      institution: Another uni
-      year: 2021
-    - course: M.E. in Stuff
-      institution: Someuni
-      year: 2015
-
-# Social/Academic Networking
-# For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "/#contact" for contact widget.
+  - Transformers
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
+    link: /#contact
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/Saikat_Roy_
     label: Follow me on Twitter
     display:
-      header: true
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
+      header: false
+  - icon: graduation-cap
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.de/citations?user=dSs0DfoAAAAJ&hl=en
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/saikat-roy
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
-
-# Link to a PDF of your resume/CV.
-# To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
-# and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: uploads/resume.pdf
-
-# Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
-
-# Highlight the author in author lists? (true/false)
+    link: https://www.linkedin.com/in/mrsaikatroy/
+    display:
+      header: false
+organizations:
+  - name: German Cancer Research Center (DKFZ)
+    url: https://www.dkfz.de/en/index.html
+education:
+  courses:
+    - course: M.Sc. in Computer Science
+      institution: University of Bonn, Germany
+      year: 2021
+    - course: M.E. in Software Engineering
+      institution: Jadavpur University, India
+      year: 2015
+superuser: true
+last_name: Someone's LN
 highlight_name: true
+first_name: Someone
+email: ""
 ---
+I﻿ am a doctoral researcher working at the [Division of Medical Image Computing ](https://www.dkfz.de/en/mic/index.php) at the [German Cancer Research Center (DKFZ)](https://www.dkfz.de/en/index.html). My work focuses on the development of Deep Learning techniques for medical image segmentation. The technical focus of my research is on the usage of Transformer architectures.
 
-Alice Bighetti is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I﻿ have previously worked at the Deep Medical Imaging Lab at German Center for Neurodegenerative Diseases (DZNE) exploring deep learning for the segmentation of neuroanatomy.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
